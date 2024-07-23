@@ -1,0 +1,14 @@
+com\innova\masraftakip\service\MasrafService.class
+com\innova\masraftakip\controller\MasrafController.class
+com\innova\masraftakip\model\Masraf.class
+com\innova\masraftakip\repository\MasrafRepository.class
+com\innova\masraftakip\service\KisiService.class
+com\innova\masraftakip\config\SecurityConfig.class
+com\innova\masraftakip\repository\KisiRepository.class
+com\innova\masraftakip\config\SwaggerConfig.class
+com\innova\masraftakip\MasrafTakipApplication.class
+com\innova\masraftakip\model\Kisi.class
+com\innova\masraftakip\util\ScheduledTasks.class
+com\innova\masraftakip\dto\MasrafDTO.class
+com\innova\masraftakip\controller\KisiController.class
+com\innova\masraftakip\dto\KisiDTO.class
